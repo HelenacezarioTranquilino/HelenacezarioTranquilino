@@ -1,7 +1,10 @@
-- 👋 Hi, I’m @HelenacezarioTranquilino
-- 👀 I’m interested in em aprender informática 
-- 🌱 I’m currently learning scrath
-- 📫 How to reach me 
+- 👋 olá sou Helena cezário Tranquilino
+- 👀 estou interessada em aprender informática
+- 🧭 tenho 15 anos
+- 🌏 Moro em Maripá-PR
+- 🏢 estudo na escola PIO XII
+- 🌱 atualmente estou aprendendo scrath
+
 
 <!---
 HelenacezarioTranquilino/HelenacezariTranquilino is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
